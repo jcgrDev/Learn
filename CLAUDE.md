@@ -4,7 +4,7 @@ Repositorio multi-aprendizaje. Cada rama es un tema de estudio independiente. Ú
 
 ## Tecnologías Activas
 
-<!-- Se poblará automáticamente con /speckit.planificar -->
+- Python + notebooklm-mcp-cli (001-claude-notebooklm-integracion)
 
 ## Estructura del Proyecto
 
@@ -45,11 +45,11 @@ notas/           # Notas de estudio y productos de aprendizaje
 
 - **Notion**: Organización de notas, bases de datos de progreso, y seguimiento de temas
 - **PubMed**: Búsqueda de artículos académicos para temas científicos/médicos
-- **NotebookLM** (manual): Subir PDFs/libros a NotebookLM para generar resúmenes, podcasts y quizzes interactivos (ver notas/notebooklm-guia.md)
+- **NotebookLM** (MCP vía `notebooklm-mcp-cli`): Consultas con citaciones, crear notebooks, subir fuentes, generar podcasts — todo desde Claude Code (ver notas/notebooklm-guia.md)
 
 ## Cambios Recientes
 
-<!-- Se poblará automáticamente -->
+- 001-claude-notebooklm-integracion: Agregado Python + notebooklm-mcp-cli
 
 <!-- ADICIONES MANUALES INICIO -->
 <!-- ADICIONES MANUALES FIN -->
